@@ -1,0 +1,10 @@
+Observations
+1. The heavier the mouse is the larger the tumor size. 
+This is visualized by the correlation with regression line. 
+2. The placebo has no effect on the tumor. Each tumor that was treated with the placebo did not decrease in any facet. 
+3. This study was unbiased and fair. With as many male to female ratio. The weight size is in a 15 gram difference. 
+4. Each medicine has it's own effectiveness.
+Capomulin and Ramicane are the prime choices to continue the study because of its effectiveness of decreasing the size of the tumor. 
+The box plot visualizes this in a degree of quartiles. 
+Would recommend to continue futher studies with the effectiveness of these two drugs. 
+Although Capomulin and Ramicane are the top two used drugs in this series of tests its effectivess to decress tumor size merits its own study. 
